@@ -1,0 +1,1 @@
+This is a cycle-accurate evaluator for coarse-grained ISAs. It adopts a phased time accumulation evaluation methodology, covering compilation, data fetching, computation, writeback, polling, and subsequent instruction execution stages, enabling rapid estimation of the required clock cycles.
